@@ -1,0 +1,72 @@
+#buttonKorpa{
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#buttonKorpa:hover {
+  background-color: #45a049;
+}
+
+
+#carTableKorpa{
+	  width: 600px;
+  margin: 30px auto;
+	
+}
+
+#vozilaTableKorpa {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  border: 1px solid #003671;
+}
+
+#vozilaTableKorpa th {
+  background-color: #5497c8;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+   border-bottom: none; 
+}
+
+#vozilaTableKorpa th:last-child {
+  border-right: 1px solid black;
+}
+
+#vozilaTableKorpa td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #003671;
+  background-color: #D6E6F2;
+}
+
+#slika-image-k
+{
+  width: 150px;
+  height: 75px;
+}
+
+#innerButtonK
+{
+	height:35px;
+	background-color: #4CAF50;
+	color:white;
+}
+
+#sumCena
+{
+  position: static;
+  margin-bottom:30px;
+  margin-left:545px;
+  left:630px;
+  width: 30px;
+  height: 30px;
+  font-size: 15px;
+}

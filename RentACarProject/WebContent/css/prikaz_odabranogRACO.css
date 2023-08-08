@@ -1,0 +1,122 @@
+.containerShowRaco {
+  width: 400px;
+  margin: 25px auto;
+  padding: 20px;
+  background-color: #D6E6F2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.containerShowRaco h2 {
+  text-align: center;
+  margin-top: 0;
+}
+
+.info {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.info label {
+  font-weight: bold;
+  width: 120px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.info span {
+  font-weight: normal;
+  color: #555;
+  margin-left: 10px;
+}
+
+.buttonContainer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.buttonContainer button {
+  margin-right: 10px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+.buttonContainer button:hover {
+  background-color: #45a049;
+}
+
+.containerShowRaco .info:last-child {
+  margin-bottom: 20px;
+}
+
+
+#tableVozila {
+  width: 400px;
+  margin: 0 auto;
+}
+
+#vozilaTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 120px;
+  border: 1px solid #003671;
+}
+
+#vozilaTable th {
+  background-color: #5497c8;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+   border-bottom: none; 
+}
+
+#vozilaTable th:last-child {
+  border-right: 1px solid black;
+}
+
+#vozilaTable td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #003671;
+  background-color: #D6E6F2;
+}
+
+#tableKomentari {
+  width: 400px;
+  margin: 0 auto;
+  margin-top:50px;
+}
+
+#komentariTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 120px;
+  border: 1px solid #003671;
+}
+
+#komentariTable th {
+  background-color: #5497c8;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+   border-bottom: none; 
+}
+
+#komentariTable th:last-child {
+  border-right: 1px solid black;
+}
+
+#komentariTable td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #003671;
+  background-color: #D6E6F2;
+}

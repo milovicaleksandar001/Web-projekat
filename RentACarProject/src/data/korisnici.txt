@@ -1,0 +1,9 @@
+1|admin|admin|admin|admin|MUSKO|1990-05-01|ADMINISTRATOR|0.0|0
+2|PeroDetlic|a|Petar|Petrovic|MUSKO|2000-12-09|KUPAC|0.0|0
+3|Miljan|a|Miljan|Lazic|MUSKO|2001-12-24|KUPAC|2866.15|0
+4|Aco|a|Aleksandar|Milovic|MUSKO|2001-01-01|KUPAC|-2609.46|0
+5|Manager|a|Menadzer|Menadzerovic|MUSKO|1991-05-05|MENADZER|0.0|0
+6|Marko|a|Marko|Markovic|MUSKO|1987-02-05|MENADZER|0.0|0
+7|Ogi|a|Ognjen|Peric|MUSKO|1986-03-06|MENADZER|0.0|0
+8|Sara|a|Sara|Saric|ZENSKO|1997-09-09|MENADZER|0.0|0
+9|Djuro|a|Djuro|Djuric|MUSKO|1970-10-04|MENADZER|0.0|0

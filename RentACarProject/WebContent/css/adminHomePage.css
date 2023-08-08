@@ -1,0 +1,188 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFC0CB;
+  margin: 0;
+}
+
+.containerAHP {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #D6E6F2;
+  box-sizing: border-box; 
+}
+
+.containerAHP h2 {
+  text-align: center;
+  margin-top: 0; 
+  color: black;
+}
+
+.containerAHP input[type="submit"] {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px; 
+}
+
+.containerAHP input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+#tableUsers{
+	width:700px;
+	margin: 75px auto;
+	margin-left:590px;
+}
+
+#usersTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  border: 1px solid #003671;
+}
+
+#usersTable th {
+  background-color: #5497c8;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+   border-bottom: none; 
+}
+
+#usersTable th:last-child {
+  border-right: 1px solid black;
+}
+
+#usersTable td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #003671;
+  background-color: #D6E6F2;
+}
+
+.logo-image-ahp
+{
+	width:250px;
+	height:125px;
+}
+
+#ahpButton{
+ 
+  width:100%;
+  height:40px;
+  margin-bottom:10px;
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5497c8;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #4caf50;
+	
+}
+
+#ahpButton:hover {
+  background-color: #45a049;
+}
+
+#filtersAHP {
+  background-color: #5497c8;
+  width: 600px;
+  margin-top:50px;
+  margin-left:625px;
+  height:450px;
+  border: 1px solid #003671;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.rowAHP {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.colAHP {
+  flex: 1;
+  margin-right: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+#filtersAHP
+select
+{
+  width:280px;	
+}
+
+#tipKorisnika
+{
+	height:34px;
+}
+
+.buttons {
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.search-button-AHP {
+  margin-top:15px;
+  width:287px;
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5497c8;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #4caf50;
+}
+
+.reset-button-AHP {
+  margin-top:15px;
+  width:287px;
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5497c8;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #f44336;
+}
+
+#zadnjiAHP
+{
+	width:220px;
+	margin-top:15px;
+	margin-left:190px;
+}

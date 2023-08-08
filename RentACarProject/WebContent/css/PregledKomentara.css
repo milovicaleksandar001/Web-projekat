@@ -1,0 +1,50 @@
+#containerPregledKomentara {
+  width: 800px;
+  margin: 25px auto;
+  padding: 20px;
+  background-color: #D6E6F2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#containerPregledKomentara h2 {
+  text-align: center;
+  margin-top: 0;
+}
+
+#komentariTable{
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  border: 1px solid #003671;
+}
+
+#komentariTable th {
+  background-color: #5497c8;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+   border-bottom: none; 
+}
+
+#komentariTable th:last-child {
+  border-right: 1px solid black;
+}
+
+#komentariTable td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #003671;
+  background-color: #D6E6F2;
+}
+
+#komentariTable td.button-cell {
+  width: 75px;
+}
+
+#komentariTable td.button-cell button {
+  width: 100%;
+  box-sizing: border-box;
+}

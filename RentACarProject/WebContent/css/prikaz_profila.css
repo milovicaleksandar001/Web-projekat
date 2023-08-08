@@ -1,0 +1,221 @@
+.containerShowProfile {
+  width: 400px;
+  margin: 25px auto;
+  padding: 20px;
+  background-color: #D6E6F2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.containerShowProfile h2 {
+  text-align: center;
+  margin-top: 0;
+}
+
+.info {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.info label {
+  font-weight: bold;
+  width: 120px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.info span {
+  font-weight: normal;
+  color: #555;
+  margin-left: 10px;
+}
+
+.buttonContainer {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.buttonContainer button {
+  margin-right: 10px;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}
+
+.buttonContainer button:hover {
+  background-color: #45a049;
+}
+
+.containerShowProfile .info:last-child {
+  margin-bottom: 20px;
+}
+
+#ppButton{
+ 
+  width:100%;
+  height:40px;
+  margin-bottom:10px;
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5497c8;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #4caf50;
+	
+}
+
+#ppButton:hover {
+  background-color: #45a049;
+}
+
+#porudzbineTableContainer {
+  width: 550px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#porudzbineTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  margin-top:75px;
+  border: 1px solid #003671;
+}
+
+#porudzbineTable th {
+  background-color: #5497c8;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+  border-bottom: none;
+}
+
+#porudzbineTable th:last-child {
+  border-right: 1px solid black;
+}
+
+#porudzbineTable td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #003671;
+  background-color: #D6E6F2;
+}
+
+
+#filtersPP {
+  background-color: #5497c8;
+  width: 600px;
+  margin: 0 auto;
+ 
+  border: 1px solid #003671;
+  border-radius: 5px;
+  padding: 20px;
+  height:320px;
+}
+
+h2 {
+  margin: 0 0 30px;
+  font-size: 22px;
+  color: #333;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.rowPP {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.colPP {
+  flex: 1;
+  margin-right: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="date"],
+select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.buttons {
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.search-button {
+  margin-top:15px;
+  width:287px;
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5497c8;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #4caf50;
+}
+
+.reset-button {
+  margin-top:15px;
+  width:287px;
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5497c8;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #f44336;
+}
+
+#zadnjiPP
+{
+	margin-top:15px;
+	margin-left:190px;
+    width:300px;
+}
+
+th.sortable {
+  cursor: pointer;
+}
+
+.sort-asc::before {
+  content: "\25B2";
+  margin-left: 5px;
+}
+
+.sort-desc::before {
+  content: "\25BC";
+  margin-left: 5px;
+}

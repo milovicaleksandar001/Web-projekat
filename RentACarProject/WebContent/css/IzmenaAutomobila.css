@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #303841;
+  margin: 0; 
+}
+
+.containerEditAutomobil {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #D6E6F2;
+  box-sizing: border-box; 
+}
+
+.containerEditAutomobil h2 {
+  text-align: center;
+  margin-top: 0; 
+}
+
+.containerEditAutomobil .form-group {
+  margin-bottom: 15px;
+}
+
+.containerEditAutomobil label {
+  display: block;
+  font-weight: bold;
+}
+
+.containerEditAutomobil input[type="text"],
+.containerEditAutomobil input[type="password"],
+.containerEditAutomobil input[type="number"],
+.containerEditAutomobil input[type="url"],
+.containerEditAutomobil select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.containerEditAutomobil textarea
+{
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.containerEditAutomobil select
+{
+	  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.containerEditAutomobil input[type="submit"] {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.containerEditAutomobil input[type="submit"]:hover {
+  background-color: #45a049;
+}

@@ -1,0 +1,25 @@
+#filtersPPM {
+  background-color: #5497c8;
+  width: 600px;
+  margin: 0 auto;
+ 
+  border: 1px solid #003671;
+  border-radius: 5px;
+  padding: 20px;
+  height:250px;
+}
+
+
+th.sortable {
+  cursor: pointer;
+}
+
+.sort-asc::before {
+  content: "\25B2";
+  margin-left: 5px;
+}
+
+.sort-desc::before {
+  content: "\25BC";
+  margin-left: 5px;
+}

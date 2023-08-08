@@ -1,0 +1,103 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #FFC0CB;
+  margin: 0;
+}
+
+.containerMHP {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #D6E6F2;
+  box-sizing: border-box; 
+}
+
+.containerMHP h2 {
+  text-align: center;
+  margin-top: 0; 
+  color: black;
+}
+
+.containerMHP input[type="submit"] {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px; 
+}
+
+.containerMHP input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+#carTable{
+	  width: 600px;
+  margin: 110px auto;
+	
+}
+
+#vozilaTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  border: 1px solid #003671;
+}
+
+#vozilaTable th {
+  background-color: #5497c8;
+  text-align: center;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid black;
+   border-bottom: none; 
+}
+
+#vozilaTable th:last-child {
+  border-right: 1px solid black;
+}
+
+#vozilaTable td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #003671;
+  background-color: #D6E6F2;
+}
+
+#slika-image
+{
+  width: 150px;
+  height: 75px;
+}
+
+#innerButtonMHP
+{
+	height:35px;
+	background-color: #4CAF50;
+	color:white;
+}
+
+#mhpButton{
+ 
+  width:100%;
+  height:40px;
+  margin-bottom:10px;
+  padding: 8px 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #5497c8;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  background-color: #4caf50;
+	
+}
+
+#mhpButton:hover {
+  background-color: #45a049;
+}

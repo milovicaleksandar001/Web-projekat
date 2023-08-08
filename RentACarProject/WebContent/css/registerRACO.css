@@ -1,0 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #303841;
+  margin: 0; 
+}
+
+.containerRegisterRACO {
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #D6E6F2;
+  box-sizing: border-box; 
+}
+
+.containerRegisterRACO h2 {
+  text-align: center;
+  margin-top: 0; 
+}
+
+.containerRegisterRACO .form-group {
+  margin-bottom: 15px;
+}
+
+.containerRegisterRACO label {
+  display: block;
+  font-weight: bold;
+}
+
+.containerRegisterRACO input[type="text"],
+.containerRegisterRACO input[type="url"],
+.containerRegisterRACO select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+
+
+.containerRegisterRACO input[type="submit"] {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.containerRegisterRACO input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+#logo::placeholder {
+  font-style: italic;
+}
+
+
+#menadzer{
+width:93%;		
+}
+
+#add-button{
+  position: absolute;
+  top: 14px;
+  right: 1px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  line-height: 7px;
+  text-indent: -2px; 
+}
+
+
+.containerRegisterRACO .form-group {
+  position: relative;
+}
+
+

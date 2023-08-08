@@ -1,0 +1,4 @@
+1|Golden Rent A Car|3|08:00 - 16:00|https://media.istockphoto.com/id/1290071290/vector/rental-car-icon.jpg?s=612x612&w=0&k=20&c=q4EsvU3jJJYbcZTJ1EzKh6c-Dvy39HagvAUgTCRK9bE=|5|RADI|4.0|2
+2|Rent a Car Vien|5|07:00 - 15:00|https://c8.alamy.com/comp/T8P3YT/vector-logo-for-car-rental-and-sales-T8P3YT.jpg|6|RADI|0.0|0
+3|Rent a Car NS|2|08:00 - 16:30|https://media.istockphoto.com/id/1332607862/vector/car-rental-logo-template-design.jpg?s=612x612&w=0&k=20&c=Z7HXnGff9rQIvLWgrYT0E8oge2NMlLg5v0ZB1dCe4zM=|7|NE_RADI|0.0|0
+4|Rent a Car SU|1|08:00 - 16:00|https://cdn.dribbble.com/users/1111447/screenshots/7697273/rent_a_car_logo.png|8|RADI|0.0|0
